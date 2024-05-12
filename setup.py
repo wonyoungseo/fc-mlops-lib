@@ -11,7 +11,7 @@ setup(
     name="mlopslib",
     version="0.0.1",
     description="custom library for ml",
-    url="https://github.com/wonyoungseo/fc-mlops-library",
+    url="https://github.com/wonyoungseo/fc-mlops-lib",
     author="wyseo",
     packages=["mlopslib"],
     install_requires=requirements()
